@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://npm install -g @angular/cli",
+            "request": "launch",
+            "url": "http://npm install -g @angular/cli"
+        }
+    ]
+}
